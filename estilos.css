@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Cabecera{
+    
+    height: 600px;
+    background-image: url(4K_HaloInfinite_ConceptArt_005.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    
+    align-items: center;
+}
+header img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    align-items: center;
+} 
+
+.Menu{
+    text-align: center;
+    background: rgb(123, 187, 28);
+    
+}
+
+.Quienes{
+    background: rgb(123, 187, 28);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.Tratamiento{
+    background: rgb(79, 117, 22);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.tratamientos_lista{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Tarifas{
+    background-image: url(4K_HaloInfinite_ConceptArt_040.jpg);
+    background-size: cover;
+    margin-left: 50px;
+    margin-right: 50px ;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: left;
+    padding-left: 50px;
+}
+
+h3{
+    font-size: 50px;
+    text-align: left;
+    padding-bottom: 50px;
+    color: white;
+}
+
+button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: none;
+    color: white;
+    border: 1px solid white;
+}
+
+.Localizacion{
+    color: black;
+    
+}
+
+
+.Localizacion img{
+    height: 100%;
+    width: 100%;
+}
+
+
+h4{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 50px;
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 80px;
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+p{
+    padding-bottom: 30px;
+    color: white;
+    text-align: center;
+}
+
+#a{
+    color: black;
+}
+
+#aa{
+    color: white;
+    text-align: left;
+}
+
+.icons{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px 100px 100px 100px;
+}
